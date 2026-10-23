@@ -1,1 +1,2 @@
 create text.txt file
+Hi how are you text.txt
